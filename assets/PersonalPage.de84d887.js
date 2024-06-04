@@ -1,1 +1,0 @@
-import{M as a,_ as n}from"./index.de2bae39.js";const s={class:"q-pa-md example-row-horizontal-alignment"},c=Object.assign({name:"PersonalPage"},{__name:"PersonalPage",setup(t){const o={};return fetch("/Photography/index.json").then(e=>e.json()).then(e=>console.log(e)),console.log(o),(e,l)=>(a(),n("div",s," Template for personal page "))}});export{c as default};
