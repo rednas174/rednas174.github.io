@@ -1,0 +1,1 @@
+import{G as a,V as t,S as e}from"./index.9bbcc882.js";const n={class:"background-image"},s=e("div",{class:"foreground-text"},[e("h1",{class:"outline-text bold"},"I am Sander Rooiman"),e("h3",{class:"outline-text"},"And I'm a Software Engineer")],-1),o=[s],i=Object.assign({name:"IndexPage"},{__name:"IndexPage",setup(_){return(c,r)=>(a(),t("div",n,o))}});export{i as default};
