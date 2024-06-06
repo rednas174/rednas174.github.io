@@ -1,1 +1,1 @@
-# Current version = v0.5.0
+# Current version = v1.0.0
