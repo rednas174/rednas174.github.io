@@ -1,3 +1,3 @@
-import{a,_ as s}from"./ImageList.755030f8.js";import{r as o,N as r,G as l,W as i,J as n,Z as c,U as m}from"./index.8cf00ea1.js";import"./QCard.caf638da.js";import"./vm.8e1d9e89.js";import"./use-timeout.98b25ad4.js";import"./use-prevent-scroll.b295a8dc.js";import"./dom.22aeb4e2.js";const p=m("title",null,`
+import{a,_ as s}from"./ImageList.a7172790.js";import{r as o,N as r,G as l,W as i,J as n,Z as c,U as m}from"./index.32a9246b.js";import"./QCard.3f064d36.js";import"./vm.d6028859.js";import"./use-timeout.291ea551.js";import"./use-prevent-scroll.147f1af0.js";import"./dom.34ff1d63.js";const p=m("title",null,`
     My lovable furball
   `,-1),x=Object.assign({name:"IchiPage"},{__name:"IchiPage",setup(u){const e=o([]);return r().setPageTitle("My lovable furball"),a.get("/Photography/Ichi/index.json").then(t=>e.value=t.data),(t,f)=>(l(),i(c,null,[p,n(s,{folder:"Ichi",files:e.value},null,8,["files"])],64))}});export{x as default};
